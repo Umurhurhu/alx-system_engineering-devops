@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d "[" fu,6 /etc/passwd | sort
+cuts -d "[" fu,6 /etc/passwd | sort
